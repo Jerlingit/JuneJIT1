@@ -25,7 +25,6 @@ public class CucumberPrac2 extends BaseClass {
 		Thread.sleep(3000);
 	    driver.findElement(By.xpath("//button[@type=\"submit\"]")).click();
 	    System.out.println("Search was successfull");
-	    System.out.println("for testing purpose");
 	}
 
 	
